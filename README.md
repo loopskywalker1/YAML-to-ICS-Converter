@@ -4,12 +4,12 @@ YAML Converter
 Example YAML
 
 events:
-  - summary: Email Follow-up
+\- summary: Email Follow-up
     day: Monday
     time: "15:00"
     duration: 30
     description: Weekly email follow-up
-  - summary: Send Follow-up
+\- summary: Send Follow-up
     day: Monday
     time: "17:00"
     duration: 30
